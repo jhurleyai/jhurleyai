@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jhurleyai
-- 👀 I’m interested in ML and fullstack web apps
-- 🌱 I’m currently learning ML
-- 📫 james@aitaxtool.com
+- 👀 I’m interested in ML and fullstack web apps, agents, agentic systems
+- 📫 james@irishtaxhub.ie
 
 <!---
 jhurleyai/jhurleyai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
